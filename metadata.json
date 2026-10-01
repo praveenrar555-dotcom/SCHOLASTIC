@@ -1,0 +1,6 @@
+{
+  "name": "Scholastic - Study Hub & Spaced Repetition OS",
+  "description": "Comprehensive study system with Leitner spaced repetition flashcards, Cornell active recall notes, Pomodoro focus timer with ambient soundscape, and exam practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
